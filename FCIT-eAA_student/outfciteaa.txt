@@ -1,0 +1,178 @@
+Programming Assignment 4 _______Thu Apr 21 19:23:09 AST 2016
+Department Plan(Courses) Data has been Inserted
+============================================================
+Department Instructor's Data has been Inserted
+============================================================
+Department Students Data has been Inserted
+============================================================
+Department Schedule (Sections) has been Inserted
+============================================================
+Student: Ahlam Musa   stdID: 121234  Total Credit Hours: 13
+     SecId   SecName    Course      Time  Location
+      1201       KGR ARAB  201 1-2 U-T-R       N/A A112  N/A
+     61241       HGR CPCS  24111-12:30 M-W  2-3:30 W F106 G122
+     61498       LGR CPCS  498       TBA       N/A  N/A  N/A
+     61372       MGR CPCS  3729-10 U-T-R11-12:30 U F105 G146
+__________________________________________________________
+Registration Validity Report
+
+ Student has registered course from two different levels
+ The Student is a  Fourth Year Delayed
+ The following two Sections Contradict in Slots OGR  HGR
+----------------------------------------------------------
+Student: Suzzan Ahmed   stdID: 122341  Total Credit Hours: 12
+     SecId   SecName    Course      Time  Location
+      1201       KGR ARAB  201 1-2 U-T-R       N/A A112  N/A
+     61372       MGR CPCS  3729-10 U-T-R11-12:30 U F105 G146
+      1211       NGR ISLS  211 8-9 U-T-R       N/A A113  N/A
+     62324       OGR   DA  3249:30-11 M-W11-12:30 M B111 Z105
+__________________________________________________________
+Registration Validity Report
+
+ Student is a Graduate and did not Register CPCS 498
+----------------------------------------------------------
+Student: Nuha Faris   stdID: 143412  Total Credit Hours: 15
+     SecId   SecName    Course      Time  Location
+      5352       FGR STAT  352  9-10 U-T    9-10 R G128 G107
+     61301       GGR CPCS  3019:30-11 M-W  8-9:30 M G148 G139
+     61241       HGR CPCS  24111-12:30 M-W  2-3:30 W F106 G122
+     61223       JGR CPCS  22310-11 U-T-R11-12:30 R G147 G123
+__________________________________________________________
+Registration Validity Report
+
+ Student has registered course from two different levels
+ The Student is a Second Year Student
+ The following two Sections Contradict in Slots OGR  GGR
+----------------------------------------------------------
+Student: Reem Raddy   stdID: 144123  Total Credit Hours: 6
+     SecId   SecName    Course      Time  Location
+      5352       FGR STAT  352  9-10 U-T    9-10 R G128 G107
+     61301       GGR CPCS  3019:30-11 M-W  8-9:30 M G148 G139
+__________________________________________________________
+Registration Validity Report
+
+ Student Registered Credit is less than 12 Credits Must ADD courses
+----------------------------------------------------------
+Student: Asmaa Tawfeeg   stdID: 151234  Total Credit Hours: 13
+     SecId   SecName    Course      Time  Location
+      1101       AGR ISLS  101   8-9 U-T       N/A A111  N/A
+     61201       BGR CPIT  201 10-11 U-T   10-11 R F120 G131
+      5210       CGR STAT  210  12-1 U-T    12-1 R G128 G107
+     61202       DGR CPCS  2028-9:30 M-W 12:30-2 M G126 G123
+     61221       EGR CPIT  2219:30-11 M-W       N/A G147  N/A
+__________________________________________________________
+Registration Validity Report
+
+----------------------------------------------------------
+Student: Shereen Fathi   stdID: 152341  Total Credit Hours: 16
+     SecId   SecName    Course      Time  Location
+      1101       AGR ISLS  101   8-9 U-T       N/A A111  N/A
+     61201       BGR CPIT  201 10-11 U-T   10-11 R F120 G131
+      5210       CGR STAT  210  12-1 U-T    12-1 R G128 G107
+     61202       DGR CPCS  2028-9:30 M-W 12:30-2 M G126 G123
+     61221       EGR CPIT  2219:30-11 M-W       N/A G147  N/A
+__________________________________________________________
+Registration Validity Report
+
+ Student has registered course from two different levels
+ The Student is a Second Year Student
+ The following two Sections Contradict in Slots GGR  DGR
+----------------------------------------------------------
+==========================================================
+Instructor Load Requests
+
+Instructor: Amani Ali Instructor ID: 9011 Total Number of Courses: 2
+     SecId   SecName    Course      Time  Location
+     61498       LGR CPCS  498       TBA       N/A  N/A  N/A
+     61372       MGR CPCS  3729-10 U-T-R11-12:30 U F105 G146
+------------------------------------------------------------
+
+Instructor: Bassma Fuad Instructor ID: 9501 Total Number of Courses: 2
+     SecId   SecName    Course      Time  Location
+     61221       EGR CPIT  2219:30-11 M-W       N/A G147  N/A
+     61223       JGR CPCS  22310-11 U-T-R11-12:30 R G147 G123
+------------------------------------------------------------
+
+Instructor: Salwa Ahmed Instructor ID: 505 Total Number of Courses: 2
+     SecId   SecName    Course      Time  Location
+     61202       DGR CPCS  2028-9:30 M-W 12:30-2 M G126 G123
+     61241       HGR CPCS  24111-12:30 M-W  2-3:30 W F106 G122
+------------------------------------------------------------
+
+Instructor: Arwa Mustafa Instructor ID: 708 Total Number of Courses: 2
+     SecId   SecName    Course      Time  Location
+     61201       BGR CPIT  201 10-11 U-T   10-11 R F120 G131
+     61241       HGR CPCS  24111-12:30 M-W  2-3:30 W F106 G122
+------------------------------------------------------------
+
+Instructor: Nermeen Assad Instructor ID: 907 Total Number of Courses: 2
+     SecId   SecName    Course      Time  Location
+     61214       IGR CPCS  2149-10 U-T-R11-12:30 T G147 G145
+     61223       JGR CPCS  22310-11 U-T-R11-12:30 R G147 G123
+------------------------------------------------------------
+
+Instructor: Mona Mohammed Instructor ID: 1004 Total Number of Courses: 2
+     SecId   SecName    Course      Time  Location
+     61202       DGR CPCS  2028-9:30 M-W 12:30-2 M G126 G123
+     61241       HGR CPCS  24111-12:30 M-W  2-3:30 W F106 G122
+------------------------------------------------------------
+
+Instructor: Tahani Rida Instructor ID: 1101 Total Number of Courses: 2
+     SecId   SecName    Course      Time  Location
+     61301       GGR CPCS  3019:30-11 M-W  8-9:30 M G148 G139
+     61372       MGR CPCS  3729-10 U-T-R11-12:30 U F105 G146
+------------------------------------------------------------
+==========================================================
+
+All Instructors Sorted Load List 
+_________________________________
+
+Instructor: Amani Ali Instructor ID: 1990
+     SecId   SecName    Course      Time  Location
+     61498       LGR    CPCS  498         TBA       N/A  N/A  N/A
+     61372       MGR    CPCS  372  9-10 U-T-R11-12:30 U F105 G146
+Instructor: Bassma Fuad Instructor ID: 1995
+     SecId   SecName    Course      Time  Location
+     61221       EGR    CPIT  221 9:30-11 M-W       N/A G147  N/A
+     61223       JGR    CPCS  223 10-11 U-T-R11-12:30 R G147 G123
+Instructor: Salwa Ahmed Instructor ID: 2005
+     SecId   SecName    Course      Time  Location
+     61202       DGR    CPCS  202  8-9:30 M-W 12:30-2 M G126 G123
+     61241       HGR    CPCS  24111-12:30 M-W  2-3:30 W F106 G122
+Instructor: Arwa Mustafa Instructor ID: 2007
+     SecId   SecName    Course      Time  Location
+     61201       BGR    CPIT  201   10-11 U-T   10-11 R F120 G131
+     61241       HGR    CPCS  24111-12:30 M-W  2-3:30 W F106 G122
+Instructor: Nermeen Assad Instructor ID: 2009
+     SecId   SecName    Course      Time  Location
+     61214       IGR    CPCS  214  9-10 U-T-R11-12:30 T G147 G145
+     61223       JGR    CPCS  223 10-11 U-T-R11-12:30 R G147 G123
+Instructor: Mona Mohammed Instructor ID: 2010
+     SecId   SecName    Course      Time  Location
+     61202       DGR    CPCS  202  8-9:30 M-W 12:30-2 M G126 G123
+     61241       HGR    CPCS  24111-12:30 M-W  2-3:30 W F106 G122
+Instructor: Tahani Rida Instructor ID: 2011
+     SecId   SecName    Course      Time  Location
+     61301       GGR    CPCS  301 9:30-11 M-W  8-9:30 M G148 G139
+     61372       MGR    CPCS  372  9-10 U-T-R11-12:30 U F105 G146
+==========================================================
+
+Course: Writing Skills 201                 Section: KGR
+Day and Time: 1-2 U-T-R N/A
+____________________________________________________
+121234  Ahlam Musa
+122341  Suzzan Ahmed
+
+Course: Design With Computer 324                 Section: OGR
+Day and Time: 9:30-11 M-W 11-12:30 M
+____________________________________________________
+121234  Ahlam Musa
+122341  Suzzan Ahmed
+143412  Nuha Faris
+
+Course: Programming (I) 202                 Section: DGR
+Day and Time: 8-9:30 M-W 12:30-2 M
+____________________________________________________
+151234  Asmaa Tawfeeg
+152341  Shereen Fathi
+==========================================================
