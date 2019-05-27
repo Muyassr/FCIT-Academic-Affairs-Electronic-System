@@ -7,3 +7,5 @@
  To explore the equals method in the Object class.<br>
  To design and use abstract classes.<br>
  Learn to use interfaces and define them. Also, define classes that implement interfaces.<br>
+
+<b>see attached file for details</b>
